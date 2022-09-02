@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T12:16:14.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="jRhzL03ftyY1eqYVrYT6" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T12:17:15.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="iQxgfIwJzoO9-0isr6eN" version="20.2.8" type="github">
   <diagram id="atAbIjgkUXJymQfG_e_3" name="Page-1">
     <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,8 +20,8 @@
             <mxPoint x="508.25" y="-310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DNjd_hqQomR7M6jAyOCP-8" value="S3 bucket&lt;br&gt;Surgical_NPI" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="580" y="-470" width="76.5" height="93" as="geometry" />
+        <mxCell id="DNjd_hqQomR7M6jAyOCP-8" value="S3 bucket&lt;br&gt;Surgical_NPI" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=left;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;strokeColor=#000000;labelPosition=right;" parent="1" vertex="1">
+          <mxGeometry x="470" y="-470" width="76.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="DNjd_hqQomR7M6jAyOCP-12" value="AIIF Ingestion and Integration Jobs" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="-280" width="640" height="330" as="geometry" />
@@ -75,10 +75,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DNjd_hqQomR7M6jAyOCP-27" value="AIIF Weekly/Monthly &lt;br&gt;Extract Python Job" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.compute;" parent="1" vertex="1">
-          <mxGeometry x="460" y="-448.5" width="50" height="50" as="geometry" />
+          <mxGeometry x="330" y="-448.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DNjd_hqQomR7M6jAyOCP-45" value="Weekly Job runs every Thursday 2:00 AM EST / Monthly Job is Adhoc" style="whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="425" y="-536.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="-523.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tW3Sei_Uo-bAABJ0Ol1S-3" value="ARCHITECTURE DIAGRAM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="-630" width="640" height="60" as="geometry" />
